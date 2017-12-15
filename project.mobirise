@@ -3,16 +3,20 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "4.5.2",
-    "theme": {}
+    "theme": {
+      "additionalSetColors": [
+        "#ce91b8"
+      ]
+    }
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Cena Premiación Mary Key",
+        "meta_descr": "Cena de Premiación Mary Kay para la chicas",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -443,23 +447,24 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/unnamed-300x300.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgColor": "#ce91b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "_anchor": "header2-f",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "text": "POSADA MARY KAY"
+          "title": "CENA DE PREMIACIÓN<br>MARY KAY<br><br>",
+          "text": "<br>DICIEMBRE 14 DE 2017"
         },
         {
           "_name": "footer1",
@@ -539,13 +544,13 @@
           "_cid": "qDU6NirOVV",
           "_protectedParams": [],
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -679,6 +684,90 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20171214-214026-2000x1125-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-214201-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-214201-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-214701-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-214701-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-214830-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-214830-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-215156-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-215156-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220008-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220008-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220050-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220050-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220148-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220148-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220559-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220559-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220658-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220658-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220447-2000x3555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220447-2000x3555-800x1422.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-220704-2000x3555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-220704-2000x3555-800x1422.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171214-224232-2000x3555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171214-224232-2000x3555-800x1422.jpg",
+                "alt": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -689,6 +778,33 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-i"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/05ff289b4e154f9bc4abc1c86faff17c-720x720.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b><i>by Luka Desarrollo de App</i></b>&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-k"
         }
       ]
     }
